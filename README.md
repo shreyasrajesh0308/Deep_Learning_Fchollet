@@ -1,2 +1,6 @@
 # Deep_Learning
-Repository containg all Deep Learning assignemnts
+Repo containing Deep Learning assignemnts.
+
+1. Building an ANN from scratch.
+
+2. Image classification and detection 
