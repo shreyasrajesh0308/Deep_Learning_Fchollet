@@ -1,6 +1,5 @@
-# Deep_Learning
-Repo containing Deep Learning assignemnts.
+# Deep Learning with Python Second Edition - Francois Chollet
 
-1. Building an ANN from scratch.
+This repo contains the notebooks with worked out samples of each chapter in the book from Chapter-3 onwards. 
 
-2. Image classification and detection 
+1. Chapter 3 - Introduction to Keras and Tensorflow.
